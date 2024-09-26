@@ -16,7 +16,7 @@ public class TempService {
 	}
 
 	public Temp addDht11SensorData (Temp temp) {
-		temp.setTimestamp(LocalDateTime.now());
+		temp.setTimeStamp(LocalDateTime.now());
 		return mongoOperations.insert(temp);
 
 	}
