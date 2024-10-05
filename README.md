@@ -1,4 +1,5 @@
 # Temp_Arduino_be
+Backend delen av projektet Temperatur/Luftfuktighets Tracker.
 
 Projekt beskrivning:
 
